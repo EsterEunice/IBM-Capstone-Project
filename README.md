@@ -1,4 +1,4 @@
-# 🩺 Penerapan IBM Granite-3.3-8b-instruct dalam Identifikasi Penyakit dari Deskripsi Gejala User
+# 🩺 Penerapan IBM Granite-3.3-8b-Instruct dalam Identifikasi Penyakit dari Deskripsi Gejala User
 
 # 📌 Project Overview
 Proyek ini bertujuan untuk mengklasifikasikan penyakit berdasarkan deskripsi gejala pasien dalam bentuk teks alami (natural language). Sistem ini menggunakan **IBM Granite-3.3-8b-instruct**, yaitu model bahasa besar (LLM) yang dirancang untuk memahami instruksi dan melakukan penalaran berbasis teks.
