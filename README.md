@@ -18,7 +18,6 @@ Dataset yang digunakan adalah `Symptom2Disease.csv`, yang berisi:
 
 # 🔍 Insight & Findings
 - IBM Granite Instruct mampu mengenali dan mengklasifikasikan gejala secara efektif dengan desain prompt yang sederhana.
-- Kualitas output sangat bergantung pada teknik prompt yang digunakan.
 
 ---
 
